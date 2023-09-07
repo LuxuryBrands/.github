@@ -63,10 +63,10 @@ __2. Analytics Schema__
 ## 6. Modules
 | module | Explanation |
 |:---:|:---|
-| [LuxuryBrands_Infra]("https://github.com/LuxuryBrands/LuxuryBrands_Infra") | 프로젝트 환경설정과 관련된 모듈 |
-| [LuxuryBrands_DataCollector]("https://github.com/LuxuryBrands/LuxuryBrands_DataCollector") | API Scrapper 모듈 |
-| [LuxuryBrands_Airflow]("https://github.com/LuxuryBrands/LuxuryBrands_Airflow") | ETL/ELT 파이프라인 모듈 |
-| [LuxuryBrands_Looker]("https://github.com/LuxuryBrands/LuxuryBrands_Looker") | 시각화 설정 모듈 |
+| [LuxuryBrands_Infra](https://github.com/LuxuryBrands/LuxuryBrands_Infra) | 프로젝트 환경설정과 관련된 모듈 |
+| [LuxuryBrands_DataCollector](https://github.com/LuxuryBrands/LuxuryBrands_DataCollector) | API Scrapper 모듈 |
+| [LuxuryBrands_Airflow](https://github.com/LuxuryBrands/LuxuryBrands_Airflow) | ETL/ELT 파이프라인 모듈 |
+| [LuxuryBrands_Looker](https://github.com/LuxuryBrands/LuxuryBrands_Looker) | 시각화 설정 모듈 |
 <br/>
 
 ## 7. Documnet
