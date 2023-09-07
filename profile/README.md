@@ -1,6 +1,7 @@
 # 명품 브랜드 인스타그램 화제성 분석 프로젝트
 
 인스타그램 API를 통해 데이터 파이프라인을 구축하고, 브랜드의 화제성을 대시보드로 조회한다
+
 <br>
 
 ## 1. Project Outline
@@ -9,11 +10,12 @@
 브랜드의 활동성과 인지도를 측정하고, 각 브랜드의 고유한 온라인 마케팅 전략을 파악합니다.  
 이를 통해 브랜드 간의 차별화를 확인하고 경쟁 우위를 평가하며, 소비자 동향을 파악할 수 있습니다.
 
-### Project Duration
 
-2023.08.07 ~ 2023.09.02 (약 3주)
+### ⏲️ Project Duration
 
-### Team Members & Roles
+    2023.08.07 ~ 2023.09.02 (약 3주)
+
+### 🧑‍🤝‍🧑 Team Members & Roles
 
 | Field \ Name | **이성희 [@gracia10](https://github.com/gracia10)** | **이하윤[@ha6oon](https://github.com/ha6oon)** | **임형우[@Hyuoo](https://github.com/Hyuoo)** |
 |:--:|:---:|:---:|:---:|
