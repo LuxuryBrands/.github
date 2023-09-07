@@ -26,16 +26,15 @@
 <br>
 
 ## 2. Result (Looker Dashboard)
-<img src="./files/BI1.png">
-<img src="./files/BI2.png">
+<img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/BI1.png">
+<img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/BI2.png">
 <!-- <video src="./files/BI_Video.mp4"> -->
 
 ## 3. Tech Stack
 
 | Field | Stack |
 |:---:|:---|
-| Infra | <img src="https://img.shields.io/badge/AWS Secrets Manager-DF0101?style=flat&logo=Amazon+AWS&logoColor=white"/> <I1gpngc="https://img.shields.io/badge/AWS Secrets Manager-DF0101?style=flat&logo=Amazon+AWS&logoColor=white"/> <img src2spng="https
-://img.shields.io/badge/AWS Cloudwatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=flat&logo=Amazon-EC2&logoColor=white"/>|
+| Infra | <img src="https://img.shields.io/badge/AWS Secrets Manager-DF0101?style=flat&logo=Amazon+AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Cloudwatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=flat&logo=Amazon-EC2&logoColor=white"/>|
 |Scrapping| <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>|
 | ETL & ELT | <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Spark-FAFAFA?style=flat&logo=apache%20spark&logoColor=orange"/> <img src="https://img.shields.io/badge/pydeequ-FAFAFA?style=flat&logo=apache&logoColor=orange"/> |
 | Data Storage | <img src="https://img.shields.io/badge/AWS S3-088A08?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=flat&logo=Snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=flat&logo=Amazon-RDS&logoColor=white"/>
@@ -45,14 +44,14 @@
 
 
 ## 4. Architecture
-<img src="./files/Infra.png">
+<img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Infra.png">
 
 ## 5. ERD
 __1. RAW_DATA Schema__
-<img src="./files/Raw_schema.png">  
+<img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Raw_schema.png">  
 
 __2. Analytics Schema__ 
-<img src="./files/Mart_schema.png">
+<img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Mart_schema.png">
 
 ## 6. Modules
 | Name | Explanation |
@@ -65,4 +64,4 @@ __2. Analytics Schema__
 
 ## 7. Documnet
 프로젝트의 자세한 정보는 아래 문서를 참고하여 주시길 바랍니다
-- [프로젝트_보고서.pdf](files/project_report.pdf)
+- [프로젝트_보고서.pdf](https://github.com/LuxuryBrands/.github/blob/main/profile/files/project_report.pdf)
