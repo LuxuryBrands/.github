@@ -8,8 +8,8 @@
 
 명품 브랜드의 인스타그램 계정과 관련 해시태그를 수집하여  
 브랜드의 활동성과 인지도를 측정하고, 각 브랜드의 고유한 온라인 마케팅 전략을 파악합니다.  
-이를 통해 브랜드 간의 차별화를 확인하고 경쟁 우위를 평가하며, 소비자 동향을 파악할 수 있습니다.
-
+이를 통해 브랜드 간의 차별화를 확인하고 경쟁 우위를 평가하며, 소비자 동향을 파악할 수 있습니다.  
+<br/>
 
 ### ⏲️ Project Duration
 
@@ -25,12 +25,13 @@
 |**ETL**|Airflow ETL Dag 개발,<br>EMR 프로세스 개발,<br>Slack 모듈 개발| - | - |
 |**ELT**|-|데이터 마트 모델링,<br>마트 쿼리 작성,<br>Airflow ELT Dag 개발,<br>EMR 프로세스 개발 | 데이터 마트 모델링,<br>마트 쿼리 작성|
 |**Visualization**|-| Looker 대시보드 생성| Looker 대시보드 생성|
-<br>
+<br/>
 
 ## 2. Result (Looker Dashboard)
 <img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/BI1.png">
 <img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/BI2.png">
 <!-- <video src="./files/BI_Video.mp4"> -->
+<br/>
 
 ## 3. Tech Stack
 
@@ -43,26 +44,30 @@
 | BI tool | <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/> |
 | CI/CD | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS ECR-FF9900?style=flat&logo=amazonecr&logoColor=white"/> <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat&logo=amazonecs&logoColor=white"/> |
 | ETC|<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>|
-
+<br/>
 
 ## 4. Architecture
 <img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Infra.png">
+<br/>
 
 ## 5. ERD
-__1. RAW_DATA Schema__
+__1. RAW_DATA Schema__  
+
 <img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Raw_schema.png">  
 
-__2. Analytics Schema__ 
+__2. Analytics Schema__   
+
 <img src="https://github.com/LuxuryBrands/.github/blob/main/profile/files/Mart_schema.png">
+<br/>
 
 ## 6. Modules
-| Name | Explanation |
+| module | Explanation |
 |:---:|:---|
 | [LuxuryBrands_Infra]("https://github.com/LuxuryBrands/LuxuryBrands_Infra") | 프로젝트 환경설정과 관련된 모듈 |
 | [LuxuryBrands_DataCollector]("https://github.com/LuxuryBrands/LuxuryBrands_DataCollector") | API Scrapper 모듈 |
 | [LuxuryBrands_Airflow]("https://github.com/LuxuryBrands/LuxuryBrands_Airflow") | ETL/ELT 파이프라인 모듈 |
 | [LuxuryBrands_Looker]("https://github.com/LuxuryBrands/LuxuryBrands_Looker") | 시각화 설정 모듈 |
-
+<br/>
 
 ## 7. Documnet
 프로젝트의 자세한 정보는 아래 문서를 참고하여 주시길 바랍니다
